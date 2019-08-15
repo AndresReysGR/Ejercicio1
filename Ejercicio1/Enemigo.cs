@@ -31,15 +31,15 @@ namespace Ejercicio1
                 }
             }
         }
-        public moverse()
+        public void mover()
         {
 
         }
-        public disparo()
+        public void disparar()
         {
 
         }
-        public explotar()
+        public void explotar()
         {
 
         }
